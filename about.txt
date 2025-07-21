@@ -1,1 +1,3 @@
 this is about page...
+
+trying to add <i class="fa fa-code" aria-hidden="true"></i>
